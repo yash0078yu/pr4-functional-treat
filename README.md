@@ -1,6 +1,5 @@
 Project Name: Functional Treat
 Language: Python
-Level: Beginner
 
 Description:
 This project is a menu-driven Data Analyzer and Transformer program.
@@ -15,12 +14,6 @@ Concepts Used:
 - Global keyword
 - Returning multiple values
 - Sorting techniques
-
-How to Run:
-1. Open Python
-2. Copy the code
-3. Run the program
-4. Follow menu options
 
 Author:
 Yash
